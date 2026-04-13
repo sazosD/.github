@@ -1,0 +1,6 @@
+{
+  "name": "Claude Security Review",
+  "description": "AI-powered security review on every PR using Anthropic's claude-code-security-review action. Catches injection, auth bugs, secrets, crypto misuse, IDOR, RCE, and OWASP-class issues.",
+  "iconName": "octicon shield-lock",
+  "categories": ["Code quality", "Security"]
+}
