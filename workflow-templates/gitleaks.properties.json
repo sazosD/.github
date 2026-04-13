@@ -1,0 +1,6 @@
+{
+  "name": "Gitleaks Secret Scan",
+  "description": "Scans every push and PR for leaked secrets (API keys, tokens, private keys) using gitleaks. Also runs weekly on main. Defense in depth on top of local pre-commit hooks.",
+  "iconName": "octicon key",
+  "categories": ["Code quality", "Security"]
+}
